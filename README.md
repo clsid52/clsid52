@@ -11,18 +11,4 @@ clsid52/clsid52 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-🛠 Tech Stack 🛠
-📌 Programming Language
-
-📌 Database
-
-📌 Deploy
-
-
-📌 Tools
-
-📌Markup Language
-
-📌Interesting Tech
-
 
