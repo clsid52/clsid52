@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielSequeira
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Kubernets, Docker, Github, AI
+- 🌱 I’m currently learning ... Kubernetes, Docker, Github, AI
 - 💞️ I’m looking to collaborate on ... Opensource Projects
 - 📫 How to reach me ... Linkedin 
 - 😄 Pronouns: ...
