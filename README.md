@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @DanielSequeira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Kubernetes, Docker, Github, AI
-- 💞️ I’m looking to collaborate on ... Opensource Projects
+- 👀 I’m interested in ... Payment Gateways - SaaS payment integration
+- 🌱 I’m currently learning ... K8S, Docker, Github, Webhook, AI for Business (Automation to reduce payment logistic Ops)
+- 💞️ I’m looking to collaborate on ... Visa/Mastercard
 - 📫 How to reach me ... Linkedin 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Did you know that only 8% of the world's currency exists as physical cash. The rest exists only on a computer hard drive in electronic bank accounts around the world.
 
 <!---
 clsid52/clsid52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
