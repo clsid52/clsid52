@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielSequeira
-- 👀 I’m interested in ... Payment Gateways - SaaS payment integration
+- 👀 I’m interested in ... Payment Gateways - SaaS payment integration and implementation
 - 🌱 I’m currently learning ... K8S, Docker, Github, Webhook, AI for Business (Automation to reduce payment logistic Ops)
 - 💞️ I’m looking to collaborate on ... Visa/Mastercard
 - 📫 How to reach me ... Linkedin 
