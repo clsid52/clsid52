@@ -10,4 +10,7 @@ clsid52/clsid52 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+# 🧰 Languages and Tools
+
+Java,Spring,TypeScript,Angular,Git,Linux,HTML,CSS,JavaScript,React,NodeJS,Python,C++,GitHub,Bash
 
